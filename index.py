@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import cgi
-import cgitb
 
 print("python script run")
 
