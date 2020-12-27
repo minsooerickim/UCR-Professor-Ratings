@@ -58,6 +58,7 @@ if any(inputProfessor in s for s in profNames):
         print("\t " + str(i) + ". " + review.text + "\n")
         i += 1
 
+    print("Thanks for using UCR-Professor-Ratings!\n\nMade by Minsoo Kim")
 
 
 else:
