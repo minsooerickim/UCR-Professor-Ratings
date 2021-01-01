@@ -21,8 +21,8 @@ from University of California, Riverside!
 
 #### Technologies
 
+- python
 - html
-- css
 
 ---
 
