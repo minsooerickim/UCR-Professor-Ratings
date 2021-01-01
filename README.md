@@ -30,7 +30,7 @@ from University of California, Riverside!
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/github_username/UCR-Professor-Ratings.git
    ```
 2. Install NPM packages
    ```sh
